@@ -148,7 +148,7 @@ async function getTokenMetadata(mintAddress: string): Promise<TokenMetadata | nu
 async function getTokenPrice(mintAddress: string): Promise<number | null> {
   try {
     // Use Jupiter Price API
-    const response = await fetch(`https://price.jup.ag/v6/price?ids=${mintAddress}`);
+    const response = await fetch(`https://api.jup.ag/price/v2?ids=${mintAddress}`);
     if (response.ok) {
       const data = await response.json();
       return data.data?.[mintAddress]?.price || null;
