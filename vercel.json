@@ -7,7 +7,7 @@
   "env": {
     "TELEGRAM_BOT_TOKEN": "8165335138:AAE0rkqsGU7Ci1Ae2zVAU6EOlUIUkcfyAQc",
     "TELEGRAM_CHAT_ID": "-1002213745081",
-    "TELEGRAM_ADMIN_IDS": "@telegram_admin_ids",
+    "TELEGRAM_ADMIN_IDS": "5039957435",
     "TELEGRAM_NOTIFICATION_LEVEL": "@telegram_notification_level",
     "MONITORED_WALLET": "DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj"
   }
