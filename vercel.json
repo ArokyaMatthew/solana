@@ -1,0 +1,14 @@
+{
+  "functions": {
+    "app/api/webhook/route.ts": {
+      "maxDuration": 30
+    }
+  },
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "@telegram_bot_token",
+    "TELEGRAM_CHAT_ID": "@telegram_chat_id",
+    "TELEGRAM_ADMIN_IDS": "@telegram_admin_ids",
+    "TELEGRAM_NOTIFICATION_LEVEL": "@telegram_notification_level",
+    "MONITORED_WALLET": "@monitored_wallet"
+  }
+}
