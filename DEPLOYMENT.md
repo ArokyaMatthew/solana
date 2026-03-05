@@ -27,7 +27,7 @@
 4. **Set Environment Variables**
    After deployment, go to your Vercel dashboard and add:
    ```
-   TELEGRAM_BOT_TOKEN=8165335138:AAE0rkqsGU7Ci1Ae2zVAU6EOlUIUkcfyAQc
+   TELEGRAM_BOT_TOKEN=your_token
    TELEGRAM_CHAT_ID=5039957435
    TELEGRAM_ADMIN_IDS=5039957435
    TELEGRAM_NOTIFICATION_LEVEL=ALL
