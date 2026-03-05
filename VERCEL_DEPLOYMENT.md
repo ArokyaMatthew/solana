@@ -51,9 +51,9 @@ vercel --prod
 ### 3. **Add Environment Variables in Vercel**
 Go to your project settings and add:
 ```
-TELEGRAM_BOT_TOKEN=8165335138:AAE0rkqsGU7Ci1Ae2zVAU6EOlUIUkcfyAQc
+TELEGRAM_BOT_TOKEN=your_token.
 TELEGRAM_CHAT_ID=-1002213745081
-MONITORED_WALLET=DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj
+MONITORED_WALLET=wallet
 ```
 
 ### 4. **Update Helius Webhook**
