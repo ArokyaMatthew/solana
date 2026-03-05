@@ -64,7 +64,7 @@ https://your-project-name.vercel.app/api/webhook
 
 ## ✅ **Pre-configured Settings:**
 - ✅ **Channel ID**: `-1002213745081` (Allen calls channel)
-- ✅ **Bot Token**: `8165335138:AAE0rkqsGU7Ci1Ae2zVAU6EOlUIUkcfyAQc`
+- ✅ **Bot Token**: `your_token`
 - ✅ **Wallet**: `DfMxre4cKmvogbLrPigxmibVTTQDuzjdXojWzjCXXhzj`
 
 ## 🎉 **Result:**
